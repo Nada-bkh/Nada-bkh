@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Nada Ben Khlifa, a Software Engineering student at ESPRIT with a passion for web and mobile app development. 
+Nada Ben Khalifa, a Software Engineering student at ESPRIT with a passion for web and mobile app development. 
 
 Here are some of my core skills:
 
