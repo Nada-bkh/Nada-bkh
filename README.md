@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-Nada Ben Khalifa, a Software Engineering student at ESPRIT with a passion for web and mobile app development. 
+Nada Ben Khalifa, a Software Engineering student at ESPRIT with a passion for web development. 
 
 Here are some of my core skills:
 
-- **Web Development**: HTML, CSS, JavaScript, PHP.
+- **Web Development**: HTML, CSS, JavaScript, PHP, Springboot, Angular
 - **Mobile App Development**: flutterflow, currently learning ReactNative
 - **Java Enthusiast**: Strong foundation in Java programming
 
