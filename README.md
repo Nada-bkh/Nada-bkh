@@ -11,7 +11,7 @@ I'm a highly motivated software engineer with a passion for building intuitive a
 - **Frontend:** HTML, CSS, JavaScript, React, Angular
 - **Backend:** Node.js, Spring Boot, PHP
 - **Databases:** MongoDB, MySQL, H2
-- **Version Control:** Git, GitHub
+- **Version Control:** GitHub
 
 ### **Mobile App Development:**
 - **React Native** (beginner level)
