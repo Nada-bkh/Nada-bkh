@@ -50,10 +50,6 @@ I'm a highly motivated software engineer with a passion for building intuitive a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nada-bkh&layout=compact&langs_count=8&theme=radical)
 
-## 📈 GitHub Activity
-
-![Nada's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=Nada-bkh&theme=github)
-
 ---
 
 ## 🚀 Open Source Contributions
