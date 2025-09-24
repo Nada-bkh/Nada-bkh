@@ -58,4 +58,4 @@ I actively contribute to various open-source projects, with a focus on web devel
 
 ---
 
-> **"The only way to do great work is to love what you do."** – Steve Jobs
+> **"Like Hedy Lamarr, women in tech break barriers: rare, brilliant, and unstoppable"** 
