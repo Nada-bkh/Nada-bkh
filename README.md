@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nada-bkh/Nada-bkh/main/avatar.png" width="120" style="border-radius: 50%" alt="Nada Ben Khalifa" />
+<img src="https://raw.githubusercontent.com/Nada-bkh/Nada-bkh/main/avatar-removebg-preview.png" width="120" style="border-radius: 50%" alt="Nada Ben Khalifa" />
 
 # Nada Ben Khalifa
 
