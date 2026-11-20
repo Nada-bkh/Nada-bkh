@@ -4,8 +4,7 @@
 
 # Nada Ben Khalifa
 
-**Software Engineering Student · Full-Stack & DevOps Developer**
-ESPRIT — 3rd Year
+**Software Engineering · Full-Stack & DevOps Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nada--ben--khalifa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-ben-khalifa-b85ab61b8/)
 [![GitHub followers](https://img.shields.io/github/followers/Nada-bkh?style=flat-square&label=Follow&logo=github)](https://github.com/Nada-bkh)
